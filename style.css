@@ -1,0 +1,44 @@
+/*
+Theme Name : Est-sb 
+Author : toto
+*/
+
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+
+body, html {
+  height: 100%;
+  line-height: 1.8;
+}
+
+/* Full height image header */
+.bgimg-1 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pr%C3%A9sidence_UCD.jpg/1200px-Pr%C3%A9sidence_UCD.jpg");
+  min-height: 100%;
+  filter: brightness(50%);
+  text-align: center;
+
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+header
+    {
+        background-color: grey;
+        
+        
+        
+    }
+
+    .hey
+      {
+        color: whitesmoke;
+       background-color:black;
+       font-size: 300%;
+       width:100%;
+
+       
+
+      }
