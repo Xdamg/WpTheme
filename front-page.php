@@ -42,7 +42,7 @@
 <!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
   <h3 class="w3-center">ABOUT THE COMPANY</h3>
-  <?php get_header(); ?>
+  
 
 
 <div class="w3-col l8 s12">
@@ -54,7 +54,7 @@
         'orderby' => 'ID',
         'post_status' => 'publish',
         'order' => 'DESC',
-        'posts_per_page' => -1 // this will retrive all the post that is published
+        'posts_per_page' => -1 
     );
     $result = new WP_Query($args);
     if ($result->have_posts()) : ?>
@@ -91,7 +91,7 @@
         <div class="w3-row">
             <div class="w3-col m8 s12">
                 <p>
-                    <a href="<?php the_permalink(); ?>" class="w3-button w3-padding-large w3-blue  w3-round-xlarge"><b>READ MORE »</b>
+                    <a href="<?php the_permalink(); ?>" class="w3-button w3-padding-large w3-blue  w3-round-xxlarge"><b>READ MORE »</b>
                     </a>
                 </p>
             </div>
@@ -114,19 +114,6 @@ wp_reset_postdata(); ?>
 
 
 <?php get_sidebar(); ?>
-
-        
-
-
-
-
-
-
-
-
-        
-
-
-
+<span> .  </span>
 
 <?php get_footer() ;?>

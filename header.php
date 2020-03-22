@@ -24,7 +24,7 @@
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide" ><img src="https://cdn-06.9rayti.com/rsrc/cache/widen_292/uploads/2018/06/Logo-EST-Sidi-Bennour.jpg"   width=200" height="70"></a>
+    <a href="#home" class="w3-bar-item w3-button w3-wide" >EST-SB</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
       <a href="#about" class="w3-bar-item w3-button">PRÉSENTATION</a>
