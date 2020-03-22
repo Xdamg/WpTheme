@@ -1,3 +1,4 @@
+git checkout master
 <?php get_header(); ?>
 	<main id="content">
 
