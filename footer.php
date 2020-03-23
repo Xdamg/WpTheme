@@ -1,17 +1,28 @@
 <?php wp_footer() ; ?>
 
 <!-- Footer -->
+
 <footer class="w3-center w3-black w3-padding-64">
-  <a href="#home" class="w3-button w3-blue w3-round-xxlarge"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
-  <div class="w3-xlarge w3-section">
-    <i class="fa fa-facebook-official w3-hover-opacity"></i>
-    <i class="fa fa-instagram w3-hover-opacity"></i>
-    <i class="fa fa-snapchat w3-hover-opacity"></i>
-    <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-    <i class="fa fa-twitter w3-hover-opacity"></i>
-    <i class="fa fa-linkedin w3-hover-opacity"></i>
-  </div>
+
+ <div class="w3-container"> <a href="#home" class="w3-button w3-blue w3-round-xxlarge"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+ </div>
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" title="W3.CSS" target="_blank" class="w3-hover-text-green">w3.css</a></p>
+  
+
+
+  <div class="col-md-6 col-lg-3 float-left">
+								<!-- Text widget-->
+								<aside class="widget widget_text">
+									<div class="widget-title">
+										<h5>EST-SB</h5>
+									</div>
+									<div class="textwidget">
+					
+										<p>L’Ecole Supérieure de Technologie Sidi Bennour (ESTSB) est un établissement public d’enseignement supérieur à finalité de formation des Techniciens Supérieurs Elle a été créée en Août 2016 par le Ministère de l’Enseignement Supérieur,de la Formation des Cadres et de la Recherche Scientifique du Royaume du Maroc.</</p>
+								</aside>
+							</div>
+
+
 </footer>
  
 <script>
