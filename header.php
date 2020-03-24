@@ -12,6 +12,7 @@
    
     <head>
 
+
     <?php   wp_head() ;    ?>
 
     </head>
@@ -24,9 +25,9 @@
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="#home" class="w3-bar-item w3-button w3-wide" >EST-SB</a>
+    <a href="<?php  the_permalink();?>" class="w3-bar-item w3-button w3-wide" ><img src="img/images.png"></a>
     <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small">
+    <div class="w3-right w3-hide-small ">
       <a href="#about" class="w3-bar-item w3-button">PRÉSENTATION</a>
       <a href="#team" class="w3-bar-item w3-button"> FORMATION</a>
       <a href="#work" class="w3-bar-item w3-button">  EMPLOIS DU TEMPS</a>

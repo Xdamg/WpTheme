@@ -1,7 +1,8 @@
 <?php get_header() ;?>
 
+
 <div class="container">
-<h1><?php the_title() ; ?></h1>
+
 
 <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -117,3 +118,4 @@ wp_reset_postdata(); ?>
 <span> .  </span>
 
 <?php get_footer() ;?>
+<div class="w3-container w3-row w3-center w3-black w3-padding-64"></div>

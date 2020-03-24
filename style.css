@@ -35,17 +35,7 @@ header
         
         
     }
-
-    .hey
-      {
-        color: whitesmoke;
-       background-color:black;
-       font-size: 300%;
-       width:100%;
-
-       
-
-      }
+    #containerfooter {position: absolute;bottom:0;width: 100%;}
 
 
       .cls-1 {
@@ -303,3 +293,26 @@ header
           transform: scale(.98)
         }
       }
+
+
+      /*Single-page Animation*/
+
+      #girl
+        {
+          animation: grp 5s ease-in-out infinite ;
+        }
+
+        @keyframes grp
+          {
+           
+            from 
+                {
+              transform: rotateX(0deg);
+                }
+            to
+                {
+              transform: rotateX(20deg);
+                
+                }
+
+          }
