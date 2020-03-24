@@ -118,4 +118,3 @@ wp_reset_postdata(); ?>
 <span> .  </span>
 
 <?php get_footer() ;?>
-<div class="w3-container w3-row w3-center w3-black w3-padding-64"></div>
