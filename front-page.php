@@ -114,7 +114,7 @@ wp_reset_postdata(); ?>
 </div>
 
 
-<?php get_sidebar(); ?>
-<span> .  </span>
+<?php get_sidebar(); ?></div>
+
 
 <?php get_footer() ;?>
