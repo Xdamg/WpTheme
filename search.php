@@ -25,7 +25,7 @@ git checkout master
 
 <?php else : ?>
 	<article class="post">
-	    <h1><?php _e( 'No results for ', 'basic' ); ?> &laquo;<?php the_search_query() ?>&raquo;</h1>
+	    <h1><?php _e( 'There is No results for ', 'basic' ); ?> &laquo;<?php the_search_query() ?>&raquo;</h1>
 	    <?php get_search_form(); ?>
 	 </article>
 <?php endif; ?>

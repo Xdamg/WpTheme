@@ -6,20 +6,15 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">   
-
-   
-   
+ 
     <head>
-
-
     <?php   wp_head() ;    ?>
-
     </head>
-<body <?php body_class() ;?>>
 
+<body <?php body_class() ;?>>
     
 
-<header sticky-top >
+<header class="head">
 
 <!-- Navbar (sit on top) -->
 <div class="w3-top">

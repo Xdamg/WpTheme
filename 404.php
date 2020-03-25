@@ -8,6 +8,7 @@
 ?>
 <?php get_header() ; ?>
 
+<div è>
 <section class="error-404 not-found">
     <div class="page-content">
         <h2 class="title"><?php esc_html_e( '404', 'ivy-school' ); ?></h2>
@@ -151,4 +152,7 @@
   </g>
 </svg>
 </div>
+
+
+
 <?php get_footer() ;?>

@@ -28,9 +28,9 @@ body, html {
 .w3-bar .w3-button {
   padding: 16px;
 }
-header
+.head
     {
-        background-color: grey;
+       height: 90px;
         
         
         
@@ -115,6 +115,12 @@ header
   {
     margin-bottom:30px
   }
+}
+.footer-wrapper{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 @media (max-width:767px)
 {
@@ -479,3 +485,4 @@ header
                 }
 
           }
+        
