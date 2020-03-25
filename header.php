@@ -22,7 +22,7 @@
     <a href="http://wordpress-theme.test/" class="w3-bar-item w3-button w3-wide" >EST-SB</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small ">
-      <a href="#about" class="w3-bar-item w3-button">PRÉSENTATION</a>
+      <a href="http://wordpress-theme.test/80-2/" class="w3-bar-item w3-button">PRÉSENTATION</a>
       <a href="#team" class="w3-bar-item w3-button"> FORMATION</a>
       <a href="#work" class="w3-bar-item w3-button">  EMPLOIS DU TEMPS</a>
       <a href="http://wordpress-theme.test/78-2/" class="w3-bar-item w3-button"> DÉPARTEMENTS</a>

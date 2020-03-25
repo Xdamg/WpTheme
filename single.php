@@ -3,7 +3,7 @@
 <div class="w3-col l8 s12">
 
 
-        <div class="w3-card-4 w3-margin w3-white">
+        <div class="w3-card-4 w3-margin w3--light-grey">
 
             <?php if (has_post_thumbnail($post->ID)): ?>
             <?php $image = wp_get_attachment_image_src(get_post_thumbnail_id($post->ID), 'single-post-thumbnail'); ?>
@@ -22,7 +22,7 @@
         <div class="w3-container">
 
 
-            <?php echo get_post_field('post_content', the_ID()); ?>
+           <p> <?php echo get_post_field('post_content', the_ID()); ?></p>
            
         </div>
     </div>
@@ -33,6 +33,7 @@
 
 
     </div>
+    
 
 
 

@@ -9,13 +9,13 @@
 
 
             <?php
-            $i = 0;
+            $j = 0;
             $args = array(
                 'post_type' => 'post',
                 'orderby' => 'ID',
                 'post_status' => 'publish',
                 'order' => 'DESC',
-                'posts_per_page' => -1 // this will retrive all the post that is published
+                'posts_per_page' => -1 
             );
             $result = new WP_Query($args);
             if ($result->have_posts()) :
@@ -26,7 +26,7 @@
                     ?>
                     <li class="w3-padding-16">
                         <span class="w3-large"><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></span><br>
-                        <span><?php echo $i ;?></span>
+                        <span><?php echo $j;?></span>
                     </li>
 
                     <li>
@@ -35,7 +35,7 @@
 
                     <?php
                 }
-                    $i += 1;
+                    $j += 1;
                 endwhile; endif;
             wp_reset_query();
             ?>

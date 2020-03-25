@@ -42,7 +42,7 @@
 
 <!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
-  <h3 class="w3-center">ABOUT THE COMPANY</h3>
+  <h3 class="w3-center">Actualité</h3>
   
 
 
