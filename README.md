@@ -1,5 +1,10 @@
 # WpTheme
 Is a fully responsive school theme that looks great on any devices including iPad, iPhone or any other mobile device.
+
+#### Contributors :
+- Rhalloub Taha        [Email Me](mailto:taha.rhalloub01@gmail.com)
+- Dihadril Samira      [Email Me](mailto:amiradihadril@gmai.com)
+
 ## built with 
 
 * [Visual Studio Code](https://code.visualstudio.com/) -  Is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linu
