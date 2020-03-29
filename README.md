@@ -38,6 +38,6 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 ## some screenshots
  
-<img width="641" src="https://raw.githubusercontent.com/Xdamg/WpTheme/master/image.png">
+<img width="641" src="https://github.com/Xdamg/WpTheme/blob/master/img/front-page.PNG"> 
 
 <img width="641" src="https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/looo.PNG">
