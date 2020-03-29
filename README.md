@@ -45,3 +45,20 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/looo.PNG)
+
+
+## single-page.php
+
+![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/singlee.PNG)
+
+
+## post format
+
+![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/postt.PNG)
+
+## footer.php
+
+![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/footerr.PNG)
+
+
+
