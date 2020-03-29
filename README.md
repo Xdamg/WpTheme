@@ -1,27 +1,27 @@
 # WpTheme
 Is a fully responsive school theme that looks great on any devices including iPad, iPhone or any other mobile device.
 
-## Contributors :
+## :couple: Contributors :
 * Rhalloub Taha        [Email Me](mailto:taha.rhalloub01@gmail.com)
 * Dihadril Samira      [Email Me](mailto:amiradihadril@gmai.com)
 
-## built with 
+## :wrench: built with 
 
 * [Visual Studio Code](https://code.visualstudio.com/) -  Is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linu
 * [Laragon](https://laragon.org/) - Is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 * 	[git](https://git-scm.com/) - Free and Open-Source distributed version control system 
 
-## Installation 
+## :beginner: Installation 
 1. Upload the `wp-Theme` folder to the `/wp-content/themes/` directory
-### Manual installation:
+### :beginner: Manual installation:
 1. Activate the Theme through the 'Themes' menu in WordPress
 2. See Appearance -> `Est-Theme` Options to change theme specific options
 
-## Additional Notes
+## :pushpin: Additional Notes
 * The theme is released for free under the terms of the GNU General Public License version 2
 * In general words, feel free and encouraged to use, modify and redistribute this theme however you like.
 * The theme is offered free of charge. If someone asked money for it, someone just tricked you.
-### Actuator
+### :pushpin: Actuator
 
 To monitor and manage your Theme
 
@@ -38,7 +38,7 @@ To monitor and manage your Theme
 |`functions.php`    	    | It acts like a plugin and gets automatically loaded in both admin and front-end pages of a WordPress site |
 
 
-## Supported Browser
+## :triangular_flag_on_post: Supported Browser
 Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 
