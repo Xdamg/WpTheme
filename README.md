@@ -1,9 +1,9 @@
 # WpTheme
 Is a fully responsive school theme that looks great on any devices including iPad, iPhone or any other mobile device.
 
-#### Contributors :
-- Rhalloub Taha        [Email Me](mailto:taha.rhalloub01@gmail.com)
-- Dihadril Samira      [Email Me](mailto:amiradihadril@gmai.com)
+## Contributors :
+* Rhalloub Taha        [Email Me](mailto:taha.rhalloub01@gmail.com)
+* Dihadril Samira      [Email Me](mailto:amiradihadril@gmai.com)
 
 ## built with 
 
@@ -42,30 +42,30 @@ To monitor and manage your Theme
 Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 
-## header.php (Header with full-height image)
+## :star: header.php (Header with full-height image)
 
 ![alt text](https://github.com/Xdamg/WpTheme/blob/master/img/front-page.PNG)
 
-## page.php
+## :star: page.php
 
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/looo.PNG)
 
 
-## single-page.php
+## :star: single-page.php
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/singlee.PNG)
 
 
-## post format
+## :star: post format
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/postt.PNG)
 
-## footer.php
+## :star: footer.php
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/footerr.PNG)
 
-## 404.php
+## :star: 404.php
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/404-page.PNG)
 
