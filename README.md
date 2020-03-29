@@ -65,5 +65,7 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
 
 ![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/footerr.PNG)
 
+## 404.php
 
+![alt text](https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/404-page.PNG)
 
