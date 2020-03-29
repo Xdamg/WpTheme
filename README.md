@@ -40,4 +40,4 @@ Mozilla Firefox, Google Chrome, Safari, IE 10,9,8,7
  
 <img width="641" src="https://raw.githubusercontent.com/Xdamg/WpTheme/master/image.png">
 
-<img width="641" src="https://raw.githubusercontent.com/Xdamg/WpTheme/master/looo.PNG">
+<img width="641" src="https://raw.githubusercontent.com/Xdamg/WpTheme/master/img/looo.PNG">
