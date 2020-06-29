@@ -55,7 +55,8 @@
         'orderby' => 'ID',
         'post_status' => 'publish',
         'order' => 'DESC',
-        'posts_per_page' => -1 
+        'posts_per_page' => -1
+		
     );
     $result = new WP_Query($args);
     if ($result->have_posts()) : ?>

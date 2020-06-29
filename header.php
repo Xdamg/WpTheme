@@ -16,18 +16,32 @@
 
 <header class="head">
 
-<!-- Navbar (sit on top) -->
-<div class="w3-top">
-  <div class="w3-bar w3-white w3-card" id="myNavbar">
-    <a href="http://wordpress-theme.test/" class="w3-bar-item w3-button w3-wide" >EST-SB</a>
-    <!-- Right-sided navbar links -->
-    <div class="w3-right w3-hide-small ">
-      <a href="http://wordpress-theme.test/80-2/" class="w3-bar-item w3-button">PRÉSENTATION</a>
-      <a href="#team" class="w3-bar-item w3-button"> FORMATION</a>
-      <a href="#work" class="w3-bar-item w3-button">  EMPLOIS DU TEMPS</a>
-      <a href="http://wordpress-theme.test/78-2/" class="w3-bar-item w3-button"> DÉPARTEMENTS</a>
-      <a href="#contact" class="w3-bar-item w3-button">CONTACT</a>
-    </div> 
+<nav class="navbar navbar-expand-md navbar-light bg-light" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#">Navbar</a>
+        <?php
+        wp_nav_menu(
+        array(
+
+            'theme_location'    =>'boostrap-menu',
+            'menu_class'        =>'navbar-nav ',
+            'container'            =>false,
+            'depth'                =>2,
+            'walker'            => new wp_bootstrap_navwalker()
+
+
+
+
+
+        ));
+        ?>
+    </div>
+</nav>
+
 </header>
   
 
