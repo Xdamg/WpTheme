@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Est-Sb </title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -22,7 +22,11 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-controls="bs-example-navbar-collapse-1" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="#">Navbar</a>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+        <div class="container-fluid">
+	<a class="navbar-brand" href=""><img width="30px" height="30px" src="<?php bloginfo('stylesheet_directory');?>/img/images.png">Est-Sb</a>
+		</div>
+    <b>
         <?php
         wp_nav_menu(
         array(
@@ -39,6 +43,7 @@
 
         ));
         ?>
+        </b>
     </div>
 </nav>
 
